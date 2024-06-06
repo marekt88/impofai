@@ -1,4 +1,4 @@
-# Use this template to quickly host the script files on github pages.
+## Example hosting VG script files on github pages
 Use the template then it automatically should deploy a github pages then you should be able to access the script files through 
 https://yourdomain/assets/styles.css
 
