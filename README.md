@@ -9,7 +9,6 @@ Then you replace in the script the root url with your github pages one:
 ```html
    <script>
         function initVG() {
-            document.querySelector('html').style.fontSize = "16px"; // 16px is the default value, this is needed now for fully eliminating spacing issues.
             window.VG_CONFIG = {
                 ID: "YOUR_ID
                 region: 'eu', // 'eu' or 'na'corresponding to Europe and North America
